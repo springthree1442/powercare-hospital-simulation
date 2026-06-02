@@ -80,7 +80,7 @@ if "simulation_started" not in st.session_state:
 weather_data = {
     "맑음 ☀️": {
         "factor": 1.0,
-        "description": "태양광 발전이 가장 원활하게 이루어집니다."
+        "description": "태양광 발전이 원활하게 이루어집니다."
     },
     "구름 조금 ⛅": {
         "factor": 0.7,
